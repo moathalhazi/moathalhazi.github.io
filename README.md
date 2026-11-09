@@ -52,7 +52,7 @@ To run this project locally:
 
 ## 🌍 Live Demo
 
-**Portfolio:** [https://YOUR_USERNAME.github.io](https://moathalhazi.github.io)
+**Portfolio:** [https://moathalhazi.github.io](https://moathalhazi.github.io)
 
 ## 📬 Connect With Me
 
