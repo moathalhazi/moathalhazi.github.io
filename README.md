@@ -20,6 +20,7 @@ I enjoy solving technical problems, exploring new technologies, and building pra
 Portfolio/
 ├── index.html
 └── README.md
+└── logo.png
 ```
 
 ## ✨ Portfolio Features
@@ -38,20 +39,20 @@ To run this project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_USERNAME.github.io.git
+   git clone https://github.com/moathalhazi/moathalhazi.github.io.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd YOUR_USERNAME.github.io
+   cd moathalhazi.github.io
    ```
 
 3. Open `index.html` in your browser.
 
 ## 🌍 Live Demo
 
-**Portfolio:** [https://YOUR_USERNAME.github.io](https://YOUR_USERNAME.github.io)
+**Portfolio:** [https://YOUR_USERNAME.github.io](https://moathalhazi.github.io)
 
 ## 📬 Connect With Me
 
